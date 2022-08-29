@@ -8,11 +8,10 @@ Um dos pilares que viabilizam a reciclagem de resíduos sólidos é a coleta sel
 ### 1.2) Objetivo
 Uma possível solução para diminuir o impacto da baixa adesão da coleta seletiva está na separação inteligente do montante de lixo acumulado. Sendo assim, o objetivo desse trabalho é desenvolver um **modelo de redes neurais convolucionais (CNN) para realizar a classificação de imagens de lixo urbano**.
 ## 2) Referências
-https://www12.senado.leg.br/noticias/infomaterias/2021/06/aumento-da-producao-de-lixo-no-brasil-requer-acao-coordenada-entre-governos-e-cooperativas-de-catadores.
-https://agenciabrasil.ebc.com.br/en/geral/noticia/2022-06/recycling-rate-brazil-only-4-says-abrelpe
-http://www.abiplast.org.br/noticias/estudo-aponta-que-231-dos-residuos-plasticos-pos-consumo-foram-reciclados-em-2020-no-brasil/
-portal.fmu.br/noticias/reciclagem-no-brasil-panorama-atual-e-desafios-para-ofuturo
-https://www.reciclasampa.com.br/artigo/entenda-por-que-a-reciclagem-de-metais-deve-ir-alem-das-latas-de-aluminio
-https://economia.estadao.com.br/blogs/ecoando/coleta-seletiva-atende-apenas-17-da-populacao-segundo-novo-relatorio-do-cempre
+- https://www12.senado.leg.br/noticias/infomaterias/2021/06/aumento-da-producao-de-lixo-no-brasil-requer-acao-coordenada-entre-governos-e-cooperativas-de-catadores.
+- https://agenciabrasil.ebc.com.br/en/geral/noticia/2022-06/recycling-rate-brazil-only-4-says-abrelpe
+- http://www.abiplast.org.br/noticias/estudo-aponta-que-231-dos-residuos-plasticos-pos-consumo-foram-reciclados-em-2020-no-brasil/portal.fmu.br/noticias/reciclagem-no-brasil-panorama-atual-e-desafios-para-ofuturo
+- https://www.reciclasampa.com.br/artigo/entenda-por-que-a-reciclagem-de-metais-deve-ir-alem-das-latas-de-aluminio
+- https://economia.estadao.com.br/blogs/ecoando/coleta-seletiva-atende-apenas-17-da-populacao-segundo-novo-relatorio-do-cempre
 ## 3) Próximos passos
 Pretendo testar novos modelos de CNN e comparar seus resultados com o do ResNet50V2, além de criar um modelo ensamble entre eles.
