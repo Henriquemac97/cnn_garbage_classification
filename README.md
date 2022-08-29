@@ -1,7 +1,3 @@
-# 
-## Introdução
-
-
 # Redes Neurais Convulucionais (CNN) para classificação de resíduos de lixo urbano
 ## 1) Entendimento do problema
 ### 1.1) Contexto do problema
